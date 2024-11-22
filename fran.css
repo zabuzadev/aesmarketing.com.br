@@ -1,0 +1,42 @@
+#onetrust-consent-sdk #onetrust-banner-sdk {
+  background-color: #FFFFFF;
+}
+
+#onetrust-consent-sdk #onetrust-policy-title,
+#onetrust-consent-sdk #onetrust-policy-text,
+#onetrust-consent-sdk .ot-b-addl-desc,
+#onetrust-consent-sdk .ot-dpd-desc,
+#onetrust-consent-sdk .ot-dpd-title,
+#onetrust-consent-sdk #onetrust-policy-text *:not(.onetrust-vendors-list-handler),
+#onetrust-consent-sdk .ot-dpd-desc *:not(.onetrust-vendors-list-handler),
+#onetrust-consent-sdk #onetrust-banner-sdk #banner-options *,
+#onetrust-banner-sdk .ot-cat-header,
+#onetrust-banner-sdk .ot-optout-signal {
+  color: #696969;
+}
+
+#onetrust-consent-sdk #onetrust-banner-sdk .banner-option-details {
+  background-color: #E9E9E9;
+}
+
+#onetrust-consent-sdk #onetrust-banner-sdk a[href],
+#onetrust-consent-sdk #onetrust-banner-sdk a[href] font,
+#onetrust-consent-sdk #onetrust-banner-sdk .ot-link-btn {
+  color: #3860BE;
+}
+
+#onetrust-consent-sdk #onetrust-accept-btn-handler,
+#onetrust-banner-sdk #onetrust-reject-all-handler {
+  background-color: #6CC04A;
+  border-color: #6CC04A;
+  color: #FFFFFF;
+}
+
+#onetrust-consent-sdk #onetrust-pc-btn-handler,
+#onetrust-consent-sdk #onetrust-pc-btn-handler.cookie-setting-link {
+  color: #6CC04A;
+  border-color: #6CC04A;
+  background-color: #FFFFFF;
+}
+
+/* Outros estilos omitidos para brevidade */
